@@ -1,0 +1,33 @@
+body{
+    background-color:rgba(214, 250, 9, 0.621);
+}
+
+h2{
+    color:blue;
+    border-style:dotted;
+    border-color:blueviolet;
+    width:80%;
+    border-width:10px;
+    padding:20px;
+    font-size:50px;
+}
+
+.name_of_object{
+    color:rgb(255, 0, 21);
+    width:80%;
+    border-width:10px;
+    padding:20px;
+    font-size:20px;
+}
+
+#camera , #result{
+    border:2px ridge yellowgreen;
+    width:300px;
+    height:300px;
+    
+}
+
+button{
+    background-color:brown;
+   color:white;
+}
